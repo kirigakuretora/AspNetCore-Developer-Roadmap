@@ -4,6 +4,7 @@
 - [繁體中文 ReadMe](ReadMe.zh-Hant.md)
 - [简体中文 ReadMe](ReadMe.zh-Hans.md)
 - [土耳其文 ReadMe](ReadMe-tr.md)
+- [日文 ReadMe](ReadMe.ja.md)
 
 > 2022 年 [ASP.NET Core](https://docs.microsoft.com/zh-tw/aspnet/core/) 開發人員指南：
 
